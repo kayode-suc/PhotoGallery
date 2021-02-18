@@ -1,2 +1,2 @@
-# Haneefar
-Haneef's Photo Gallery
+# PhotoGallery
+ Photo Gallery
